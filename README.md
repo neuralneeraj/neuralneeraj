@@ -2,7 +2,46 @@
 
 **Building AI systems that actually work. Most of the time.**
 
-10 years shipping production ML pipelines, RAG at enterprise scale, and LLM orchestration across 50K+ businesses. I turn coffee into cloud-native AI platforms.
+10 years of shipping production ML pipelines, RAG at enterprise scale, and LLM orchestration across 500K+ clients. I turn coffee into cloud-native AI platforms.
+
+<!-- ============ PROFILE VIEWS + SOCIAL BADGES ============ -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neuralneeraj&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/neuralneeraj?tab=followers">
+    <img src="https://img.shields.io/github/followers/neuralneeraj?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/neuralneeraj?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/neuralneeraj?label=Stars&style=social" alt="GitHub stars" />
+  </a>
+  <a href="https://www.youtube.com/@NeuralNeeraj?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCfvaog6ptjCvtXdbY6AM5eQ?label=Subscribe&style=social" alt="YouTube subscribers" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/neeraj-iit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://neuralneeraj.com">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.youtube.com/@NeuralNeeraj">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:neural.theneeraj@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<!-- ============ GITHUB STATS CARDS ============ -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=neuralneeraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralneeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuralneeraj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
@@ -109,7 +148,9 @@
 ### 📬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neeraj-iit/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neeraj.k2401@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:neural.theneeraj@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@NeuralNeeraj)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://neuralneeraj.com)
 
 ---
 
@@ -117,4 +158,4 @@
 
 ---
 
-⭐️ *"The model isn't wrong, your prompt is."*
+**Build · Ship · Scale · Repeat.**
