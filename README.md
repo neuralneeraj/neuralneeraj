@@ -34,14 +34,9 @@
 </p>
 
 <!-- ============ GITHUB STATS CARDS ============ -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=neuralneeraj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neuralneeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" height="165" />
-</p>
+[![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuralneeraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/neuralneeraj)
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neuralneeraj&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralneeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/neuralneeraj)
 
 ---
 
