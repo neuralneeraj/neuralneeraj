@@ -33,11 +33,6 @@
   </a>
 </p>
 
-<!-- ============ GITHUB STATS CARDS ============ -->
-[![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neuralneeraj&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github)](https://github.com/neuralneeraj)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neuralneeraj&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)](https://github.com/neuralneeraj)
-
 ---
 
 ### 🚀 What I Do
